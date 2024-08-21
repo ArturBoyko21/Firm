@@ -1,0 +1,31 @@
+.dgf{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Xiao{
+    background:orange;
+}
+.iph{
+    background:#fcb103 ;
+}
+
+p{
+    margin: 0px;
+    padding-bottom: 5px;
+}
+.sams{
+    background: #fcbe03;
+}
+.ha{
+    text-align:center;
+    font-size: 20px;
+    background-color: red;
+}
+a{  
+    color: black;
+    text-decoration: none;
+    border-radius: 10px; 
+    margin: 2px 0px;
+    padding: 2px 0px;
+}
